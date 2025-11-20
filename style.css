@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+h1{
+    color: crimson;
+}
+p
+{
+    color: yellow;
+    text-shadow: 2cm;
+}
+
+.btn {
+  display: block;
+  margin: 100px auto; /* centers horizontally */
+  width: 150px;       /* or use cm if needed: width: 15cm; */
+  padding: 10px 20px;
+  font-size: 16px;
+}
